@@ -138,7 +138,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Credits
-
-- Original course material by **[Data With Baraa](https://www.youtube.com/@datawithbaraa)** — Baraa Khatib Salkini
-- Dataset sourced from a Medallion Architecture data warehouse project
