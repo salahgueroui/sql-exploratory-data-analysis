@@ -138,3 +138,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+## About Me
+
+Hello, I'm **Salah Gueroui**, passionate about **Data Analytics, Business Intelligence, Data Engineering, and Artificial Intelligence**. I enjoy building data-driven solutions using **SQL, Python, Power BI, and modern database technologies**, turning raw data into meaningful insights and business value.
