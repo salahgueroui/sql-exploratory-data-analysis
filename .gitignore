@@ -1,0 +1,26 @@
+# SQL Server backup files
+*.bak
+*.trn
+*.ldf
+*.mdf
+*.ndf
+
+# SSMS temp files
+*.sql~
+*.sqlproj.user
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Logs
+*.log
